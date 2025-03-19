@@ -12,4 +12,4 @@ Oversigt over plots:
 
 "Epsilonanalyse.R" : Figur 8, figur 9
 
-"Begge trænere v2 med plots.R" figur 10, figur 11
+"Begge trænere v2 med plots.R" figur 10, figur 11, figur A.1
